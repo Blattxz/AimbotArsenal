@@ -1,2 +1,0 @@
-# AimbotArsenal
-AimbotArsenal
